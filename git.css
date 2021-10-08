@@ -1,0 +1,18 @@
+table{
+padding: 40px;
+  color: #2F00BF;
+  font-family: fantasy;
+  display: flex;
+  background-color:#BBD7FB ;
+  border-collapse: collapse;
+  justify-content: center;
+}
+
+td{
+  border: 3px solid #5063DA;
+  padding: 10px;
+}
+.cell{
+  text-decoration: bold;
+  font-size: 25px;
+}
